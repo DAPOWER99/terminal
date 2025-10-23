@@ -1,1 +1,32 @@
+# .replit for Python terminal application
+run = ["python", "main.py"]
+install = ["pip", "install", "-r", "requirements.txt"]
 
+[languages]
+language = "python3"
+
+  [languages.python3]
+  pattern = "**/*.py"
+
+# Enable the terminal by default
+[entrypoint]
+file = "main.py"
+
+[packager]
+language = "python3"
+
+  [packager.features]
+  # Enable package searching
+  packageSearch = true
+  # Enable guessing which packages to install
+  guessImports = true
+
+# Set environment variables if needed
+[env]
+VIRTUAL_ENV = "/home/runner/${REPL_SLUG}/venv"
+PATH = "${VIRTUAL_ENV}/bin:${PATH}"
+PYTHONPATH = "${REPL_SLUG}"
+
+# Configure the shell
+[shell]
+command = "bash"
