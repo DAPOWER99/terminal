@@ -28,8 +28,8 @@ Daxel Is A terminal that works with a new type of program(as it mixes IDE with t
 ## 🛠️ Installation
 
 ### Prerequisites
-- [List any prerequisites like Python, Node.js, Rust, etc.]
-- [Any system requirements]
+- [Python]
+- [psutil, pyperclip, requests, pillow]
 
 ### Quick Install
 ```Comming Soon
