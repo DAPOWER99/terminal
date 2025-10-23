@@ -34,6 +34,6 @@ Daxel Is A terminal that works with a new type of program(as it mixes IDE with t
 ### Quick Install
 ```Comming Soon
 # Choose the appropriate installation method for your project
-git clone https://github.com/yourusername/your-project.git
+git clone [https://github.com/DAPOWER99/terminal/new/main.git]
 cd your-project
 ./install.sh
