@@ -171,7 +171,7 @@ You agree to comply with all applicable export and re-export control laws and re
 
 For questions about these Terms:
 
-- **GitHub Issues:** [Create an issue in our repository]([https://github.com/DAPOWER99/terminal/issues])
+- **GitHub Issues:** [Create an issue in our repository](https://github.com/DAPOWER99/terminal/issues)
 - **Legal Inquiries:** [```soon```]
 
 ---
