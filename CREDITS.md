@@ -1,6 +1,6 @@
 # Acknowledgements
 
-DAXEL terminal stands on the shoulders of giants. We'd like to thank:
+DAXEL terminal stands on the shoulders of giants. We want to thank:
 
 ## Core Technologies
 
