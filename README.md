@@ -29,13 +29,16 @@ Daxel Is A terminal that works with a new type of program(as it mixes IDE with t
 ### Prerequisites
 - [Python]
 - [psutil, pyperclip, requests, pillow]
-
+### **Install Options**
+- **Option 1:** `pip install -r requirements.txt`
+- **Option 2:** `pip install psutil paperclip requests pillow`
 ### Quick Install
 ```
 # Choose the appropriate installation method for your project
 git clone https://github.com/DAPOWER99/terminal/new/main.git
 cd your-project
 ./install.sh
+
 
 
 
