@@ -1,4 +1,4 @@
-# <span style="color:green">[Daxel](https://www.github.com/DAPOWER99/terminal/)</span>
+# <span style="color:#1e90ff">[Daxel](https://www.github.com/DAPOWER99/terminal/)</span>
 Daxel Is A terminal that works with a new type of program(as it mixes IDE with terminal with built in commands With OS.
 
 ![Version](https://img.shields.io/badge/version-1.0-blue.svg)
@@ -36,6 +36,7 @@ Daxel Is A terminal that works with a new type of program(as it mixes IDE with t
 git clone https://github.com/DAPOWER99/terminal/new/main.git
 cd your-project
 ./install.sh
+
 
 
 
