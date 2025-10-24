@@ -1,4 +1,4 @@
-# [Daxel]
+# [Daxel](https://www.github.com/DAPOWER99/terminal/)
 
 Daxel Is A terminal that works with a new type of program(as it mixes IDE with terminal with built in commands With OS.
 
@@ -37,6 +37,7 @@ Daxel Is A terminal that works with a new type of program(as it mixes IDE with t
 git clone https://github.com/DAPOWER99/terminal/new/main.git
 cd your-project
 ./install.sh
+
 
 
 
